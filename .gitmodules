@@ -1,0 +1,6 @@
+[submodule "generative_cartoons"]
+	path = generative_cartoons
+	url = https://github.com/clayheaton/generative_cartoons.git
+[submodule "p5jsTiler"]
+	path = p5jsTiler
+	url = https://github.com/clayheaton/p5jsTiler.git
