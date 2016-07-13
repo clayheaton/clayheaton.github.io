@@ -5,9 +5,10 @@ date:   2016-07-12 14:29:35 -0400
 categories: creative p5js
 ---
 
-This p5.js sketch uses a genetic algorithm to generate cartoons. Made for the [Kadenze Nature of Code class][kadenze].
+This p5.js sketch uses a genetic algorithm to generate cartoons. Made for the [Kadenze Nature of Code class][kadenze]. [Click here][click-here] to see it in action. Find the code [here][code-link].
 
-[Click here][click-here] to see it in action. Find the code [here][code-link].
+![Example comic](/assets/2016-07-12-cartoon.png)
+
 
 [kadenze]: https://www.kadenze.com/courses/the-nature-of-code/info
 [click-here]: generative_cartoons/index.html
