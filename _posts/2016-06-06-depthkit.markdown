@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eyeo DepthKit Workshop"
-date:   2016-07-12 14:29:35 -0400
+date:   2016-06-06 14:29:35 -0400
 categories: creative p5js
 ---
 
