@@ -4,3 +4,6 @@
 [submodule "p5jsTiler"]
 	path = p5jsTiler
 	url = https://github.com/clayheaton/p5jsTiler.git
+[submodule "jimmy_is_sick"]
+        path = jimmy_is_sick
+        url = https://github.com/clayheaton/p5js_jerry_is_sick.git
