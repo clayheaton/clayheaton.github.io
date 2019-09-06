@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Santa Overslept"
+date:   2018-10-01 10:36:35 -0400
+categories: creative godot
+---
+
+During a hack day at work, I made a simple procedurally generated Santa present-delivery game. More than anything, the project was a chance for me to learn the [Godot][godot] game engine and to discover a workflow for drawing game assets on an iPad. I settled on using [Affinity Designer][affinity] after struggling a bit with [Autodesk Sketchbook][sketchbook]. The ability to combine vector and raster graphics in a single document and to save to iCloud for export and editing on my Mac is what eventually sold me on Affinity Designer.
+
+You can download and play it for free on [itch.io](https://clay.itch.io/santa-overslept).
+
+![santa02](/assets/2018-10-01-santa02.png)
+
+[godot]: https://godotengine.org
+[affinity]: https://affinity.serif.com/en-us/
+[sketchbook]: https://sketchbook.com
+[seth]: http://sethwork.com

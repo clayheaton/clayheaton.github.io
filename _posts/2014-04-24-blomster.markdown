@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Blomster: A Genetic Algorithm of Flowers"
+date:   2014-04-24 21:29:35 -0400
+categories: creative genetic processing
+---
+
+![blomster01](/assets/2014-04-24-blomster01.png)
+
+Optimization class wasn't working for me... I was bored, but the idea of working on genetic algorithms was appealing. To teach myself the concepts, I created a Processing sketch that I called Blomster (Norwegian for flower).
+
+![blomster02](/assets/2014-04-24-blomster02.png)
+
+When you launch the sketch, a target flower is chosen and then an algorithm breeds generations of flowers to optimize towards the target. Once the convergence threshold is crossed, generational best flowers are displayed on a grid, with the target in the middle.
+
+![blomster03](/assets/2014-04-24-blomster03.png)
+
+[Download it and check it out!][repo] 
+
+Note that there are a number of variables you can set in the `blomster.pde` file. Eventually, I had several prints made from output from this sketch. It was a lot of fun to build!
+
+
+[repo]: https://github.com/clayheaton/blomster

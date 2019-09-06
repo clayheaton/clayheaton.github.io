@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Gypsy and the Hidden Treasure"
+date:   2015-09-01 10:50:35 -0400
+categories: video
+---
+
+So, my older daughter wanted to make a movie. We came up with an idea, shot the movie, edited it, and had our viewing all in a single afternoon. I present to you Gypsy and the Hidden Treasure:
+
+<iframe src="https://player.vimeo.com/video/148803879" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/148803879">Gypsy and the Hidden Treasure</a> from <a href="https://vimeo.com/user2845797">Clay Heaton</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

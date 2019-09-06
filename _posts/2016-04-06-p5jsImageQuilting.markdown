@@ -9,5 +9,8 @@ This is a p5.js implementation of the Efros / Freeman paper from 2001. Starting 
 
 [Click here][click-here] to see it in action. Find the code [here][code-link].
 
+![quilting01](/assets/2016-04-06-quilting01.png)
+![quilting02](/assets/2016-04-06-quilting02.png)
+
 [click-here]: p5jsTiler/index.html
 [code-link]: https://github.com/clayheaton/p5jsTiler

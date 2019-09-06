@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Human Skeleton Graph Data Model"
+date:   2019-08-14 23:29:35 -0400
+categories: creative python public-health
+---
+
+I recently participated (remotely) in the IT University of Copenhagen's Advanced Topics in Procedural Generation class. While I didn't need credit, I was inspired to work on a project related to an idea I've had for building a simulation of a field hospital following an earthquake. This is based on experiences I had working in Haiti following the 2010 earthquake. As part of that simulation idea, I always hoped to have a procedural injury model. There are lots of orthopaedic injuries during earthquakes, so it made sense to use a graph model of the human skeleton in the modeling of injuries. 
+
+After searching a while, I couldn't find what I needed with regards to data structure, so I decided to create it myself. 
+
+[You can download it from this repository.][click-here]
+
+In the event you have an idea that could benefit from such a data model, feel free to access and use it as you please!
+
+[click-here]: https://github.com/clayheaton/human-skeleton-graph-data-model
